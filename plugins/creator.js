@@ -5,7 +5,7 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
   let _type = (args[0] || '').toLowerCase()
 
 //------- NOMOR
-  let nowner = `${nomorown.split`@`[0]}@s.whatsapp.net`
+  let nowner = `${nomorown.split`@`[083892716161]}@s.whatsapp.net`
   let teksnomor = `${htki} *OWNER* ${htka}
 ✦ @${nomorown.split`@`[0]} ✦
 ------- ${nameown} -------
@@ -20,17 +20,17 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 //------------ BIO
 let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
 let teksbio = `${htki} *BIODATA* ${htka}
-${htjava} *💌 Nama* : WH-MODS-Dev
+${htjava} *💌 Nama* : Zamm
 ${htjava} *✉️ Nama RL* : HAMBA ALLAH
 ${htjava} *♂️ Gender* : Boys
 ${htjava} *🕋 Agama* : Islam
-${htjava} *⏰ Tanggal lahir* : Private 🥶
-${htjava} *🎨 Umur* : 18
+${htjava} *⏰ Tanggal lahir* : Kek Mau Ngasih Kado Aja
+${htjava} *🎨 Umur* : 20
 ${htjava} *🧮 Kelas* : SUDAH TAMAT
-${htjava} *🧩 Hobby* : MODIFIKASI WHATSAPP "MODDER WHATSAPP"
+${htjava} *🧩 Hobby* : So Sibuk 
 ${htjava} *💬 Sifat* : ASIK DAH KALAU DAH KENAL
-${htjava} *🗺️ Tinggal* : Indo, Depok, Jawa Barat
-${htjava} *❤️ Waifu* : -
+${htjava} *🗺️ Tinggal* : Indo, Bandung, Jawa Barat
+${htjava} *❤️ Waifu* : - Gua Bukan Wibu cok
 
 ${htjava} *📷 ɪɴsᴛᴀɢʀᴀᴍ* : ${sig}
 ${htjava} *🐈 ɢɪᴛʜᴜʙ:* ${sgh}
